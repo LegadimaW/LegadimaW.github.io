@@ -1,0 +1,73 @@
+
+/*image by catalyststuff on Freepik*/
+body{
+
+    background-color: rgb(224, 53, 227);
+    font-size: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 10px);
+    height : 600px
+   
+    
+}
+.container{
+background-color: rgb(87, 19, 88); ;
+padding: 15px;
+border-radius: 10px;
+box-shadow:20px 20px 20px  rgb(71, 0, 51) ;
+height: 400px;
+width: 750px;
+
+font-size: 30px;
+color:  white;
+
+
+
+}
+ul{
+    padding-inline-start: 0px;
+}
+
+
+ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+    padding:0 ;
+
+}
+
+h3{
+    text-decoration: underline;
+}
+.intro{
+    display: flex;
+    justify-content:start;
+
+}
+
+.into div{
+    margin-left: 15px;
+    padding :0px;
+}
+.container div h2{
+     margin: 0px;
+     padding : 0px 15px;
+}
+.container div small{
+    margin: 0px;
+    padding : 0px 15px;
+    opacity: 0.5;
+}
+.intro img{
+    
+    border-radius: 100px;
+}
+.Social ul li a img{
+    height: 50px;
+    width : 50px;
+
+}
